@@ -4,6 +4,3 @@ This a simple skeleton for the django + postgresql app. For local development, m
 # Settings
 In the settings folder you can adjust the different the different configuration for each of the enviorments
 
-# Docker registry
-Address: sasoldevchemicalsdigitalreg.azurecr.io
-Image: ppo-backend and ppo-frontend
